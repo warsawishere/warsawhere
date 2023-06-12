@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://warsawishere.github.io/warsawhere/sitemap.xml
