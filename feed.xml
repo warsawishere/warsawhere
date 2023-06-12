@@ -3,7 +3,7 @@
     <title>warsawhere1</title>
     <link href="https://warsawishere.github.io/warsawhere/feed.xml" rel="self" />
     <link href="https://warsawishere.github.io/warsawhere" />
-    <updated>2023-06-12T23:56:34+02:00</updated>
+    <updated>2023-06-13T01:15:16+02:00</updated>
     <author>
         <name>Aliaksandr Kulak</name>
     </author>
@@ -226,8 +226,11 @@
         <link href="https://warsawishere.github.io/warsawhere/v-varshavu-vozvrashchaetsya-dzhaz-v-starom-gorode.html"/>
         <id>https://warsawishere.github.io/warsawhere/v-varshavu-vozvrashchaetsya-dzhaz-v-starom-gorode.html</id>
         <media:content url="https://warsawishere.github.io/warsawhere/media/posts/5/0C8maimVeiY.jpg" medium="image" />
+            <category term="Мероприятия"/>
+            <category term="Куда сходить?"/>
+            <category term="Варшава"/>
 
-        <updated>2023-06-12T22:17:43+02:00</updated>
+        <updated>2023-06-13T01:15:16+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://warsawishere.github.io/warsawhere/media/posts/5/0C8maimVeiY.jpg" alt="" />
